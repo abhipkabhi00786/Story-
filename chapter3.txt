@@ -1,1 +1,3 @@
 this is chapter 3 of our project
+
+This changes are done in the branch not in the main tree.
